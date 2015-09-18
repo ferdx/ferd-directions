@@ -1,0 +1,22 @@
+{
+  "name": "ferd-directions",
+  "version": "0.0.9",
+  "description": "Ferd directions",
+  "main": "directions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Andrew Kishino"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.61.0",
+    "to-markdown": "^1.2.1",
+    "underscore": "^1.8.3"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "ferd-directions@0.0.8",
+  "_shasum": "452ff047513775ce7029bd50746d2791eeb70f47",
+  "_from": "ferd-directions@latest"
+}
